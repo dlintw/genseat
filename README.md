@@ -1,4 +1,4 @@
-## An tool to generate Xephyr multiseat script
+## Generate script for Xephyr multiseat on demand
 
 genseat can generate a script to multiseat on demond.
 
